@@ -1,5 +1,0 @@
-Original List:
-[January, February, March, April, May, June, July, August, September, October, November, December]
-
-Sorted List:
-[April, August, December, February, January, July, June, March, May, November, October, September]
